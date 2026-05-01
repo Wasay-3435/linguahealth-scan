@@ -3,9 +3,12 @@ uvicorn==0.29.0
 python-multipart==0.0.9
 spacy==3.7.4
 textblob==0.18.0
+<<<<<<< HEAD
 librosa==0.10.1
 numpy==1.26.4
 scipy==1.13.0
+=======
+>>>>>>> 4c7f6453b1a89d3eb369ad5659cbcbd2932272d1
 reportlab==4.2.0
 sqlalchemy==2.0.30
 aiofiles==23.2.1

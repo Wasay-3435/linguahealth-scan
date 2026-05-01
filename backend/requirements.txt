@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+spacy==3.7.4
+textblob==0.18.0
+librosa==0.10.1
+numpy==1.26.4
+scipy==1.13.0
+reportlab==4.2.0
+sqlalchemy==2.0.30
+aiofiles==23.2.1
+pydantic==2.7.1

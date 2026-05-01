@@ -51,3 +51,5 @@ def analyze_speech(audio_path: str) -> dict:
             "mfcc_features": [],
             "error": str(e)
         }
+        
+        

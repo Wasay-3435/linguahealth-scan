@@ -1,4 +1,4 @@
-# 🧠 LinguaHealth-Scan
+# LinguaHealth-Scan
 
 ### Unlocking Brain Health Through Language
 
@@ -10,9 +10,9 @@ LinguaHealth-Scan is an AI-powered neuropsycholinguistic screening tool that ana
 
 - 🎙️ **Speech Analysis** — Extracts acoustic biomarkers: pitch, prosody, pauses, energy
 - ✍️ **Text Analysis** — Analyzes syntax complexity, vocabulary richness, and semantic coherence
-- 📊 **Brain Health Index** — Generates a 0–100 composite cognitive-linguistic score
-- 📋 **CELF-Aligned Scoring** — Rates expressive, receptive, semantic, and morphosyntactic domains
-- 🧠 **Psychometric Integration** — Includes SIAS (social anxiety) and LDQ (language difficulty) questionnaires
+-  **Brain Health Index** — Generates a 0–100 composite cognitive-linguistic score
+-  **CELF-Aligned Scoring** — Rates expressive, receptive, semantic, and morphosyntactic domains
+-  **Psychometric Integration** — Includes SIAS (social anxiety) and LDQ (language difficulty) questionnaires
 - 📄 **PDF Report** — Produces a downloadable clinician-ready report
 
 ---
